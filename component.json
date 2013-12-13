@@ -1,6 +1,6 @@
 {
   "name": "button-reset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "reset button styles from default browser fugliness",
   "repo": "jonathanong/button-reset",
   "styles": [
