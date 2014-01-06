@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jonathanong/button-reset](http://github.com/jonathanong/button-reset). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jonathanong-button-reset`.*
 # Button Reset
 
 CSS reset for buttons to get rid of that terrible default browser styling.

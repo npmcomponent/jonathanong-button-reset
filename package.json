@@ -1,0 +1,7 @@
+{
+  "name": "jonathanong-button-reset",
+  "description": "reset button styles from default browser fugliness",
+  "version": "0.0.2",
+  "dependencies": {},
+  "license": "MIT"
+}
